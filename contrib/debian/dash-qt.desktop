@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Dash
-Comment=Dash P2P Cryptocurrency
-Comment[fr]=Dash, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Dash, eşten eşe kriptografik sanal para birimi
-Exec=dash-qt %u
+Name=Flash
+Comment=Flash P2P Cryptocurrency
+Comment[fr]=Flash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Flash, eşten eşe kriptografik sanal para birimi
+Exec=flash-qt %u
 Terminal=false
 Type=Application
-Icon=dash128
-MimeType=x-scheme-handler/dash;
+Icon=flash128
+MimeType=x-scheme-handler/flash;
 Categories=Office;Finance;

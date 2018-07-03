@@ -1,25 +1,25 @@
-# /etc/conf.d/dashd: config file for /etc/init.d/dashd
+# /etc/conf.d/flashd: config file for /etc/init.d/flashd
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/dashcore/dash.conf"
+#BITCOIND_CONFIGFILE="/etc/flashcore/flash.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
-#BITCOIND_PIDDIR="/var/run/dashd"
+#BITCOIND_PIDDIR="/var/run/flashd"
 
 # What filename to give the pidfile
-#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/dashd.pid"
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/flashd.pid"
 
-# Where to write dashd data (be mindful that the blockchain is large)
-#BITCOIND_DATADIR="/var/lib/dashd"
+# Where to write flashd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/flashd"
 
-# User and group to own dashd process
-#BITCOIND_USER="dashcore"
-#BITCOIND_GROUP="dashcore"
+# User and group to own flashd process
+#BITCOIND_USER="flashcore"
+#BITCOIND_GROUP="flashcore"
 
-# Path to dashd executable
-#BITCOIND_BIN="/usr/bin/dashd"
+# Path to flashd executable
+#BITCOIND_BIN="/usr/bin/flashd"
 
-# Nice value to run dashd under
+# Nice value to run flashd under
 #BITCOIND_NICE=0
 
 # Additional options (avoid -conf and -datadir, use flags above)

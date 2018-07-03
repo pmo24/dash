@@ -1,15 +1,15 @@
 [Unit]
-Description=Dash's distributed currency daemon
+Description=Flash's distributed currency daemon
 After=network.target
 
 [Service]
-User=dashcore
-Group=dashcore
+User=flashcore
+Group=flashcore
 
 Type=forking
-PIDFile=/var/lib/dashd/dashd.pid
-ExecStart=/usr/bin/dashd -daemon -pid=/var/lib/dashd/dashd.pid \
--conf=/etc/dashcore/dash.conf -datadir=/var/lib/dashd -disablewallet
+PIDFile=/var/lib/flashd/flashd.pid
+ExecStart=/usr/bin/flashd -daemon -pid=/var/lib/flashd/flashd.pid \
+-conf=/etc/flashcore/flash.conf -datadir=/var/lib/flashd -disablewallet
 
 Restart=always
 PrivateTmp=true

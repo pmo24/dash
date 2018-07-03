@@ -1,20 +1,20 @@
 <!DOCTYPE RCC><RCC version="1.0">
     <qresource prefix="/translations">
-        <file alias="bg">locale/dash_bg.qm</file>
-        <file alias="de">locale/dash_de.qm</file>
-        <file alias="en">locale/dash_en.qm</file>
-        <file alias="es">locale/dash_es.qm</file>
-        <file alias="fi">locale/dash_fi.qm</file>
-        <file alias="fr">locale/dash_fr.qm</file>
-        <file alias="it">locale/dash_it.qm</file>
-        <file alias="ja">locale/dash_ja.qm</file>
-        <file alias="pl">locale/dash_pl.qm</file>
-        <file alias="pt">locale/dash_pt.qm</file>
-        <file alias="ru">locale/dash_ru.qm</file>
-        <file alias="sk">locale/dash_sk.qm</file>
-        <file alias="sv">locale/dash_sv.qm</file>
-        <file alias="vi">locale/dash_vi.qm</file>
-        <file alias="zh_CN">locale/dash_zh_CN.qm</file>
-        <file alias="zh_TW">locale/dash_zh_TW.qm</file>
+        <file alias="bg">locale/flash_bg.qm</file>
+        <file alias="de">locale/flash_de.qm</file>
+        <file alias="en">locale/flash_en.qm</file>
+        <file alias="es">locale/flash_es.qm</file>
+        <file alias="fi">locale/flash_fi.qm</file>
+        <file alias="fr">locale/flash_fr.qm</file>
+        <file alias="it">locale/flash_it.qm</file>
+        <file alias="ja">locale/flash_ja.qm</file>
+        <file alias="pl">locale/flash_pl.qm</file>
+        <file alias="pt">locale/flash_pt.qm</file>
+        <file alias="ru">locale/flash_ru.qm</file>
+        <file alias="sk">locale/flash_sk.qm</file>
+        <file alias="sv">locale/flash_sv.qm</file>
+        <file alias="vi">locale/flash_vi.qm</file>
+        <file alias="zh_CN">locale/flash_zh_CN.qm</file>
+        <file alias="zh_TW">locale/flash_zh_TW.qm</file>
     </qresource>
 </RCC>
