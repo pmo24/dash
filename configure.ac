@@ -49,7 +49,7 @@ case $host in
   ;;
 esac
 dnl Libtool init checks.
-LT_INIT([pic-only])
+LT_INIT([win32-dll])
 
 dnl Check/return PATH for base programs.
 AC_PATH_TOOL(AR, ar)
